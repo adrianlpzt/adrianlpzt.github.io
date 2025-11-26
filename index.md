@@ -14,13 +14,13 @@ permalink: /
 Hola, soy **Adrián López**.
 **Consultor de Ciberseguridad** & **Pentester** independiente ayudando a empresas en **Córdoba y toda Andalucía**.
 
-No soy el típico informático que instala antivirus. Ofrezco **Consultoría Estratégica** y simulo ataques reales (**Pentesting**) contra tu infraestructura para descubrir brechas de seguridad antes de que lo hagan los cibercriminales.
+La seguridad es mucho más que instalar un antivirus. Ofrezco **Consultoría Estratégica** y simulo ataques reales (**Pentesting**) contra tu infraestructura para descubrir brechas de seguridad antes de que lo hagan los cibercriminales.
 
 ---
 
 ### >_ ¿Por qué tu empresa en Córdoba necesita esto?
 
-Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio sea una estadística.
+Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio forme pare de esta estadística.
 
 1.  **Prevención de Ransomware:** Un solo clic de un empleado puede cifrar toda tu facturación y paralizar tu actividad.
 2.  **Fraude del CEO y Phishing:** Protejo tu correo para evitar estafas de miles de euros por suplantación de identidad.
