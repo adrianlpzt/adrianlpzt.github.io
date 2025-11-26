@@ -7,6 +7,8 @@ keywords: ciberseguridad, córdoba, pentesting, auditoría, hacking, andalucía,
 permalink: /
 ---
 
+<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid #00ff00; float: right; margin-left: 20px;">
+
 ### root@adrianlop:~$ whoami
 
 Hola, soy **Adrián López**.
