@@ -21,7 +21,7 @@ La seguridad es mucho más que instalar un antivirus. Ofrezco **Consultoría Est
 ### >_ ¿Por qué tu empresa en Córdoba necesita esto?  
 </h3>
 <p></p>
-Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio forme pare de esta estadística.
+Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio sea una estadística.
 
 1.  **Prevención de Ransomware:** Un solo clic de un empleado puede cifrar toda tu facturación y paralizar tu actividad.
 2.  **Fraude del CEO y Phishing:** Protejo tu correo para evitar estafas de miles de euros por suplantación de identidad.
