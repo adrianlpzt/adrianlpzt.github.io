@@ -4,11 +4,22 @@ title: Servicios
 permalink: /servicios/
 ---
 
-### Auditoría de Seguridad (Pentesting)
-Simulo un ataque real contra tu empresa (web, red interna o Wi-Fi) para encontrar los fallos antes que los cibercriminales. Te entrego un informe técnico y otro ejecutivo.
+### 01. Auditoría de Vulnerabilidades (Pentesting)
+Ejecuto una batería de pruebas manuales y automatizadas sobre tu infraestructura.
+* **Objetivo:** Encontrar fallos SQL Injection, XSS, configuraciones erróneas.
+* **Entregable:** Un informe técnico para tu informático y un informe ejecutivo para la gerencia.
 
-### Protección de WordPress/PrestaShop
-El 90% de las webs en Córdoba usan CMS vulnerables. Configuro firewalls (WAF), copias de seguridad inmutables y sistemas anti-ataques de fuerza bruta.
+### 02. Campañas de Phishing Simulado
+El eslabón más débil es el humano.
+* Diseño correos trampa personalizados para tu empresa.
+* Mido cuántos empleados hacen clic e introducen credenciales.
+* Imparto formación presencial u online para corregir conductas.
 
-### Ingeniería Social
-¿Tus empleados abrirían un correo malicioso? Hago pruebas controladas de Phishing para medir el riesgo humano de tu empresa.
+### 03. Securización de WordPress/PrestaShop
+Si vendes online, tu tienda es un objetivo.
+* Instalación y configuración de WAF (Web Application Firewall).
+* Protección contra ataques de fuerza bruta.
+* Copias de seguridad inmutables.
+
+---
+> "La seguridad no es un producto, es un proceso."
