@@ -1,0 +1,13 @@
+# robots.txt for https://adrianlop.es
+User-agent: *
+Allow: /
+
+# Bloquear archivos de sistema de GitHub o Jekyll que no aportan valor SEO
+Disallow: /404.html
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+Disallow: /README.md
+Disallow: /LICENSE
+
+# El mapa del tesoro para Google
+Sitemap: https://adrianlop.es/sitemap.xml
