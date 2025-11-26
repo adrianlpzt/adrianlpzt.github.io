@@ -48,7 +48,9 @@ A diferencia de las grandes consultoras, hablas directamente con quien hace el t
   <br>
   <a href="/contacto/" style="background-color: #00ff00; color: #000; padding: 10px 20px; text-decoration: none; font-weight: bold; border: 1px solid #00ff00;">[ CONTACTAR AHORA ]</a>
 </div>
-
+<p></p>
+```"La seguridad no es un producto, es un proceso."```
+<p></p>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,4 +72,4 @@ A diferencia de las grandes consultoras, hablas directamente con quien hace el t
   "description": "Servicios de auditoría web, pentesting, hardening de servidores y consultoría de seguridad informática."
 }
 </script>
-> "La seguridad no es un producto, es un proceso."
+
