@@ -8,8 +8,8 @@ permalink: /
 ---
 <img src="/assets/alpzt.png" alt="Adrián López Consultor Ciberseguridad Córdoba" width="150" style="border-radius: 50%; border: 2px solid #00ff00; float: right; margin-left: 20px;">
 
-# >_ root@adrianlopez:~$ whoami
-  
+# >_ root@adrianlopez:~$ whoami  
+
 Hola, soy **Adrián López**.
 **Consultor de Ciberseguridad** & **Pentester** independiente ayudando a empresas en **Córdoba y toda Andalucía**.
 
@@ -17,8 +17,8 @@ La seguridad es mucho más que instalar un antivirus. Ofrezco **Consultoría Est
 
 ---
 
-### >_ ¿Por qué tu empresa en Córdoba necesita esto?
-
+### >_ ¿Por qué tu empresa en Córdoba necesita esto?  
+  
 Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio forme pare de esta estadística.
 
 1.  **Prevención de Ransomware:** Un solo clic de un empleado puede cifrar toda tu facturación y paralizar tu actividad.
@@ -28,8 +28,8 @@ Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio 
 
 ---
 
-### >_ Mis Servicios de Seguridad Ofensiva
-
+### >_ Mis Servicios de Seguridad Ofensiva  
+  
 * **> Auditoría Web y Pentesting (OWASP):**
     Analizo tu e-commerce, web corporativa o API en busca de vulnerabilidades críticas.
 * **> Configuración y Hardening:**
