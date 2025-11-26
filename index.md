@@ -7,19 +7,27 @@ keywords: ciberseguridad, córdoba, pentesting, auditoría, hacking, andalucía,
 permalink: /
 ---
 
-### >_ Status: ONLINE
+### root@adrianlop:~$ whoami
 
-Hola, soy **Adrián López**. 
-Freelance especializado en **Ciberseguridad** y **Pentesting** en Córdoba.
+Hola, soy **Adrián López**.
+Consultor de Ciberseguridad & Pentester independiente con base en **Córdoba, España**.
 
-Ayudo a empresas andaluzas a proteger sus activos antes de que sea tarde.
+No vendo antivirus. Simulo ataques reales contra tu empresa para descubrir por dónde entrarían los cibercriminales antes de que lo hagan ellos.
 
 ---
 
-### ¿Qué hago?
+### >_ ¿Por qué necesitas esto?
 
-* **Auditoría Web:** Busco las vulnerabilidades de tu negocio.
-* **Hardening:** Blindaje de servidores y equipos.
-* **Concienciación:** Formación anti-phishing para empleados.
+1. **Ransomware:** Un clic equivocado de un empleado puede cifrar toda tu facturación.
+2. **Fraude del CEO:** Están robando miles de euros a empresas andaluzas interceptando correos.
+3. **Multas RGPD:** Una fuga de datos no solo daña tu imagen, también tu bolsillo.
+
+---
+
+### >_ Mis armas
+
+* **Auditoría Web (OWASP):** Reviso tu e-commerce o web corporativa.
+* **Ingeniería Social:** Pongo a prueba a tu equipo humano.
+* **Hardening:** Cierro las puertas que dejaste abiertas.
 
 [ Ver Servicios ](/servicios) | [ Contactar ](/contacto)
