@@ -26,4 +26,4 @@ Respondo en menos de 24h.
 </form>
 
 ---
-O si prefieres, escríbeme directo a: **hola@adrianlop.es**
+O si prefieres, escríbeme directo a: **adrianlopeztejera@proton.me**
