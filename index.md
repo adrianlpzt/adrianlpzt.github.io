@@ -9,7 +9,7 @@ permalink: /
 
 <img src="/assets/alpzt.png" alt="Adrián López Consultor Ciberseguridad Córdoba" width="150" style="border-radius: 50%; border: 2px solid #00ff00; float: right; margin-left: 20px;">
 
-# >_ root@adrianlop:~$ whoami
+# >_ root@adrianlopez:~$ whoami
 
 Hola, soy **Adrián López**.
 **Consultor de Ciberseguridad** & **Pentester** independiente ayudando a empresas en **Córdoba y toda Andalucía**.
