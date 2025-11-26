@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adrián López - Consultor de Ciberseguridad y Pentesting en Córdoba
+title: Adrián López /
 description: Servicios profesionales de Ciberseguridad, Pentesting, Auditoría Web y Hacking Ético para empresas en Córdoba y Andalucía. Protege tu negocio.
 image: /assets/alpzt.png
 keywords: ciberseguridad córdoba, pentesting andalucía, auditoría web, hacking ético, consultoría seguridad informática, configuración servidores, hardening
