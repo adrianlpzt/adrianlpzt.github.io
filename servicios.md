@@ -3,24 +3,71 @@ layout: page
 title: Servicios
 permalink: /servicios/
 ---
-<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid #00ff00; float: right; margin-left: 20px;">
+<img src="/assets/alpzt.png" alt="Adrián López Consultor Seguridad Córdoba" width="120" style="border-radius: 50%; border: 2px solid #00ff00; float: right; margin-left: 20px; margin-bottom: 10px;">
 
-### 01. Auditoría de Vulnerabilidades (Pentesting)
-Ejecuto una batería de pruebas manuales y automatizadas sobre tu infraestructura.
-* **Objetivo:** Encontrar fallos SQL Injection, XSS, configuraciones erróneas.
-* **Entregable:** Un informe técnico para tu informático y un informe ejecutivo para la gerencia.
+# >_ Servicios de Ciberseguridad
 
-### 02. Campañas de Phishing Simulado
-El eslabón más débil es el humano.
-* Diseño correos trampa personalizados para tu empresa.
-* Mido cuántos empleados hacen clic e introducen credenciales.
-* Imparto formación presencial u online para corregir conductas.
-
-### 03. Securización de WordPress/PrestaShop
-Si vendes online, tu tienda es un objetivo.
-* Instalación y configuración de WAF (Web Application Firewall).
-* Protección contra ataques de fuerza bruta.
-* Copias de seguridad inmutables.
+Ofrezco un enfoque híbrido: **Seguridad Ofensiva (Red Team)** para encontrar tus fallos y **Administración de Sistemas (Blue Team)** para arreglarlos.
+Trabajo presencialmente con empresas de **Córdoba** y en remoto para toda **España**.
 
 ---
+
+## 01. Auditoría y Pentesting (Hacking Ético)
+Simulo ataques reales controlados para identificar brechas antes que los cibercriminales.
+
+* **Pentesting Web & E-commerce:** Análisis profundo de tiendas online (PrestaShop, WooCommerce) y webs corporativas. Busco vulnerabilidades críticas (SQL Injection, XSS) que podrían exponer datos de tus clientes.
+* **Auditoría de Red Interna:** Evalúo la seguridad de tu red local y Wi-Fi en tus oficinas de Córdoba. ¿Es fácil entrar desde el aparcamiento? ¿Están tus impresoras o cámaras expuestas?
+* **Informe Doble:** Recibirás un reporte técnico detallado para tu equipo IT y un resumen ejecutivo de riesgos para la gerencia.
+
+---
+
+## 02. Configuración y Hardening (Defensa)
+No basta con detectar el fallo, hay que cerrar la puerta. Aplico mi experiencia como **SysAdmin** para blindar tu infraestructura.
+
+* **Hardening de Servidores (Windows/Linux):** Configuración robusta de sistemas operativos. Cierre de puertos, gestión de permisos y desactivación de servicios innecesarios para reducir la superficie de ataque.
+* **Seguridad en Active Directory:** Revisión de políticas de grupo (GPO), gestión de usuarios y prevención de escalada de privilegios en redes corporativas.
+* **Firewalls y WAF:** Implementación y configuración de reglas para bloquear tráfico malicioso y bots antes de que toquen tu servidor.
+
+---
+
+## 03. Consultoría y Factor Humano
+La tecnología es solo la mitad de la ecuación. Protejo el eslabón más débil: las personas.
+
+* **Campañas de Phishing Simulado:** Diseño correos trampa personalizados para tu empresa. Mido cuántos empleados hacen clic y entregan credenciales.
+* **Formación y Concienciación:** Charlas prácticas para empleados sobre cómo detectar estafas, gestión de contraseñas y navegación segura.
+* **Asesoría Técnica:** Te ayudo a elegir soluciones de seguridad (antivirus, copias de seguridad inmutables) que se ajusten a tu presupuesto y necesidades reales.
+
+---
+
+### >_ ¿Por qué elegir un freelance local?
+A diferencia de las grandes consultoras, hablas directamente con quien hace el trabajo. Sin intermediarios, con **confidencialidad total (NDA)** y tiempos de respuesta rápidos.
+
+<div style="margin-top: 30px; border: 1px dashed #555; padding: 20px; background-color: #0d0d0d;">
+  <p style="margin-bottom: 10px; color: #fff;"><strong>¿Te preocupa la seguridad de tu negocio?</strong></p>
+  <p style="color: #ccc;">Solicita un diagnóstico inicial o una auditoría específica.</p>
+  <br>
+  <a href="/contacto/" style="background-color: #00ff00; color: #000; padding: 10px 20px; text-decoration: none; font-weight: bold; border: 1px solid #00ff00;">[ CONTACTAR AHORA ]</a>
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Ciberseguridad y Pentesting",
+  "provider": {
+    "@type": "Person",
+    "name": "Adrián López",
+    "location": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Córdoba",
+        "addressRegion": "Andalucía"
+      }
+    }
+  },
+  "areaServed": ["Córdoba", "Andalucía", "España"],
+  "description": "Servicios de auditoría web, pentesting, hardening de servidores y consultoría de seguridad informática."
+}
+</script>
 > "La seguridad no es un producto, es un proceso."
