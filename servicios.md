@@ -3,6 +3,7 @@ layout: page
 title: Servicios
 permalink: /servicios/
 ---
+<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid #00ff00; float: right; margin-left: 20px;">
 
 ### 01. Auditoría de Vulnerabilidades (Pentesting)
 Ejecuto una batería de pruebas manuales y automatizadas sobre tu infraestructura.
