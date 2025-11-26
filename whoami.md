@@ -44,7 +44,9 @@ Herramientas y tecnologías que domino:
 [2018] Técnico SMR (Sistemas Microinformáticos y Redes) - CES Lope de Vega 
 ```
 <div style="text-align: center;display: flex; align-items: center; margin-bottom: 30px; background-color: #111; padding: 15px; border: 1px dashed #333; border-radius: 5px;">
+  <a href="https://certs.ine.com/ef34884b-f5fa-43cb-a03d-eec552886d92#acc.nvwA98Ka">
   <img src="/assets/ejpt-certification.svg" alt="eJPTv2 Badge" width="100" style="margin-right: 25px; filter: drop-shadow(0 0 5px rgba(0, 255, 0, 0.3));">
+  </a>
 </div>
 
 
