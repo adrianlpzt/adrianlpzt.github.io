@@ -6,10 +6,6 @@ image: /assets/alpzt.png
 keywords: ciberseguridad, córdoba, pentesting, auditoría, hacking, andalucía, seguridad informática
 permalink: /
 ---
----
-layout: default
-title: Home
----
 
 ### root@adrianlop:~$ whoami
 
