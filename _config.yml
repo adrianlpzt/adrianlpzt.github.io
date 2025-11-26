@@ -1,0 +1,22 @@
+remote_theme: b2a3e8/jekyll-theme-console
+plugins:
+  - jekyll-seo-tag
+
+title: Adrián López
+description: Consultor de Ciberseguridad & Pentesting en Córdoba.
+lang: es-ES
+url: "https://adrianlop.es"
+author: Adrián López
+
+style: dark 
+
+header_pages:
+  - index.md
+  - servicios.md
+  - contacto.md
+
+# PIE DE PÁGINA
+footer: '© 2024 Adrián López. Seguridad Ofensiva en Andalucía.'
+
+# Google Fonts (false para que cargue fuentes bonitas, true para privacidad extrema)
+disable_google_fonts: false
