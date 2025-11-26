@@ -14,9 +14,10 @@ header_pages:
   - index.md
   - servicios.md
   - contacto.md
+  - whoami.md
 
 # PIE DE PÁGINA
-footer: '© 2024 Adrián López. Seguridad Ofensiva en Andalucía.'
+footer: '© 2025 Adrián López. Seguridad Ofensiva en Andalucía.'
 
 # Google Fonts (false para que cargue fuentes bonitas, true para privacidad extrema)
 disable_google_fonts: false
