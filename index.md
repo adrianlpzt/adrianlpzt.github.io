@@ -17,9 +17,10 @@ Hola, soy **Adrián López**.
 La seguridad es mucho más que instalar un antivirus. Ofrezco **Consultoría Estratégica** y simulo ataques reales (**Pentesting**) contra tu infraestructura para descubrir brechas de seguridad antes de que lo hagan los cibercriminales.
 
 ---
-
+<h3>
 ### >_ ¿Por qué tu empresa en Córdoba necesita esto?  
-  
+</h3>
+<p></p>
 Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio forme pare de esta estadística.
 
 1.  **Prevención de Ransomware:** Un solo clic de un empleado puede cifrar toda tu facturación y paralizar tu actividad.
@@ -28,9 +29,10 @@ Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio 
 4.  **Multas RGPD:** Una fuga de datos de clientes en Andalucía no solo daña tu reputación, conlleva sanciones enormes.
 
 ---
-
+<h3>
 ### >_ Mis Servicios de Seguridad Ofensiva  
-  
+</h3>
+<p></p>
 * **> Auditoría Web y Pentesting (OWASP):**
     Analizo tu e-commerce, web corporativa o API en busca de vulnerabilidades críticas.
 * **> Configuración y Hardening:**
@@ -41,9 +43,10 @@ Los ciberataques a PYMES andaluzas han crecido un 400%. No dejes que tu negocio 
     Te asesoro sobre qué tecnologías necesitas realmente para estar protegido.
 
 ---
-
+<h4>
 ### >_ status: waiting_for_connection...
-
+</h4>
+<p></p>
 ¿Tienes dudas sobre la seguridad de tu empresa? Hablemos.
 Ofrezco servicio presencial en **Córdoba** y remoto para el resto de **España**.
 
