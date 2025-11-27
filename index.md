@@ -12,7 +12,7 @@ permalink: /
 </h1>
 <p></p>
 Hola, soy **Adrián López**.
-**Consultor de Ciberseguridad** & **Pentester** independiente ayudando a empresas en **Córdoba y toda Andalucía**.
+**Consultor de Ciberseguridad** & **Pentester** independiente ayudando a empresas en **Córdoba y toda Andalucía**. Cobertura remota a toda España.
 
 La seguridad es mucho más que instalar un antivirus. Ofrezco **Consultoría Estratégica** y simulo ataques reales (**Pentesting**) contra tu infraestructura para descubrir brechas de seguridad antes de que lo hagan los cibercriminales.
 
