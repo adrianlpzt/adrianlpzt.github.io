@@ -6,7 +6,7 @@ image: /assets/alpzt.png
 keywords: ciberseguridad córdoba, pentesting andalucía, auditoría web, hacking ético, consultoría seguridad informática, configuración servidores, hardening
 permalink: /
 ---
-<img src="/assets/alpzt.png" alt="Adrián López Consultor Ciberseguridad Córdoba" width="150" style="border-radius: 50%; border: 2px solid; float: right; margin-left: 20px;">
+<img src="/assets/alpzt.png" alt="Adrián López Consultor Ciberseguridad Córdoba" width="150" style="border-radius: 50%; border: 2px solid black; float: right; margin-left: 20px;">
 <h1>
 # >_ root@adrianlopez:~$ whoami 
 </h1>
