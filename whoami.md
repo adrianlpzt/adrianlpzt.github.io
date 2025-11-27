@@ -16,7 +16,7 @@ permalink: /whoami/
 
 Soy **Adrián López Tejera**, especialista en Ciberseguridad y Administrador de Sistemas.
 
-Mi perfil es híbrido: sé cómo romper sistemas porque trabajo construyéndolos y manteniéndolos. Actualmente, ejerzo como **Administrador de Sistemas en El Corte Inglés**, gestionando Directorio Activo y medidas de seguridad en entornos corporativos críticos.
+Mi perfil es híbrido: sé cómo romper sistemas porque trabajo construyéndolos y manteniéndolos. Actualmente, ejerzo como **Administrador de Sistemas**, gestionando Directorio Activo y medidas de seguridad en entornos corporativos críticos.
 
 Cuento con el **Máster en Ciberseguridad por la Universidad de Alcalá** y la certificación práctica **eJPTv2 (Junior Penetration Tester)**, lo que valida mi capacidad para realizar auditorías ofensivas reales.
 
