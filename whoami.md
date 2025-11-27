@@ -3,7 +3,7 @@ layout: page
 title: Perfil
 permalink: /whoami/
 ---
-<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid; float: right; margin-left: 20px;">
+<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid black; float: right; margin-left: 20px;">
 
 ### >_ user: adrian_lopez
 ### >_ role: SysAdmin & Junior Pentester (eJPTv2)
