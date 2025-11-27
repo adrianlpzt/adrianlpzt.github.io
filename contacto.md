@@ -3,7 +3,7 @@ layout: page
 title: Contacto
 permalink: /contacto/
 ---
-<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid; float: right; margin-left: 20px;">
+<img src="/assets/alpzt.png" alt="Adrián López" width="150" style="border-radius: 50%; border: 2px solid black; float: right; margin-left: 20px;">
 
 Si tienes dudas o quieres un presupuesto sin compromiso, escríbeme.
 Respondo en menos de 24h.
