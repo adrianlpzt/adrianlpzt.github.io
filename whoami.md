@@ -13,7 +13,7 @@ permalink: /whoami/
 ---
 
 ### ./bio_profesional.txt
-
+<p></p>
 Soy **Adrián López Tejera**, especialista en Ciberseguridad y Administrador de Sistemas.
 
 Mi perfil es híbrido: sé cómo romper sistemas porque trabajo construyéndolos y manteniéndolos. Actualmente, ejerzo como **Administrador de Sistemas**, gestionando Directorio Activo y medidas de seguridad en entornos corporativos críticos.
@@ -25,9 +25,9 @@ A diferencia de un técnico puro, mi experiencia previa en ventas [cite: 21] me 
 ---
 
 ### ./stack_tecnologico.sh
-
+<p></p>
 Herramientas y tecnologías que domino:
-
+<p></p>
 * **Auditoría & Hacking:** Metodología de Pentesting, Análisis Forense Digital, Burp Suite, Nmap.
 * **Sistemas Operativos:** Administración avanzada de Windows & Linux, Hardening de servidores.
 * **Infraestructura:** Gestión de Active Directory , Virtualización (VMware/VirtualBox), Redes LAN/Wi-Fi.
@@ -37,7 +37,7 @@ Herramientas y tecnologías que domino:
 ---
 
 ### ./certificaciones_y_formacion.log
-
+<p></p>
 ```text
 [2025] eLearnSecurity Junior Penetration Tester (eJPTv2) - INE 
 [2024] Máster en Ciberseguridad - Universidad de Alcalá (CEURA) 
@@ -49,19 +49,19 @@ Herramientas y tecnologías que domino:
   </a>
 </div>
 
-
+<p></p>
 ### ./laboratorio_continuo.tmp
-
+<p></p>
 La ciberseguridad se demuestra haciendo. Mantengo mis habilidades afiladas diariamente en plataformas de entrenamiento ofensivo:
-
+<p></p>
 * HackTheBox & TryHackMe: Resolución de máquinas y retos CTF.
 * Vulnyx: Pruebas de explotación en entornos controlados.
 * Investigación: Desarrollo de laboratorios virtuales propios para simular ataques y defensas.
-
+<p></p>
 ./soft_skills.md
-
+<p></p>
 * Visión Comercial: 4 años de experiencia en negociación y trato con cliente. Sé explicar una vulnerabilidad técnica a un gerente no técnico.
 * Resolución de Incidentes: Experiencia real gestionando incidencias críticas con herramientas como BMC Helix y Salesforce.
 * Idiomas: Español (Nativo) e Inglés técnico fluido para lectura de documentación y reportes.
-
+<p></p>
 ## "Experience in installation, configuration, and protection. Let's secure your business."
