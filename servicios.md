@@ -3,7 +3,7 @@ layout: page
 title: Servicios
 permalink: /servicios/
 ---
-<img src="/assets/alpzt.png" alt="Adrián López Consultor Ciberseguridad Córdoba" width="150" style="border-radius: 50%; border: 2px solid; float: right; margin-left: 20px;">
+<img src="/assets/alpzt.png" alt="Adrián López Consultor Ciberseguridad Córdoba" width="150" style="border-radius: 50%; border: 2px solid black; float: right; margin-left: 20px;">
 
 # >_ Servicios de Ciberseguridad
 <p></p>
